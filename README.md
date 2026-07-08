@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ranimferjeoui16@gmail.com**
 
-- ⚡ Fun fact **I write at 100+ WPS**
+- ⚡ Fun fact **I write at 100+ WPM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
