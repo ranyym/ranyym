@@ -169,7 +169,7 @@ IoT environmental monitoring for fiber optic chambers.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6" />
+![Followers](https://img.shields.io/github/followers/ranyym?style=for-the-badge&logo=github&color=a855f7&labelColor=1a1b27)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=tokyo-night&hide_border=true" width="100%"/>
 
@@ -188,13 +188,5 @@ IoT environmental monitoring for fiber optic chambers.
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
