@@ -164,12 +164,12 @@ IoT environmental monitoring for fiber optic chambers.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-trophies.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=tokyo-night&hide_border=true" width="100%"/>
 
