@@ -1,20 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ranim Ferjaoui</h1>
-<h3 align="center">Engineering Student — Information Systems Security & Networks (SSR) @ TEK-UP</h3>
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ranim-ferjaoui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/PCAP-Certified-blue?style=for-the-badge">
-</p>
+## 👋 Hi, I'm Ranim!
 
----
+Securing networks by day, shipping full-stack apps by night.
 
-### 🚀 About Me
-
-- 🎓 1st-year engineering student in **Information Systems Security and Networks (SSR)** at TEK-UP
+- 🌍 Based in **Tunisia**
+- 🎓 Engineering student — **Information Systems Security & Networks (SSR)** @ TEK-UP
 - 🌱 Background in **IoT & Embedded Systems** (ISSAT Mateur)
-- 💻 Full-stack development, AI/RAG systems, and DevOps
 - 🔐 Currently deepening my skills in **Cybersecurity**
+- 💻 Full-stack dev, AI/RAG systems & DevOps
 - 📜 **PCAP (Python)** certified
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ranim-ferjeoui/)** or **[email](mailto:ranimferjeoui16@gmail.com)**
+
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/cuuupid/undraw-illustrations/master/svg/developer_activity_bv83.svg" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,20 +48,31 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
 ### 🔥 Featured Projects
 
 - **[Café Ayo](https://github.com/ranyym)** — Full-stack restaurant platform: Next.js, React, TypeScript, PostgreSQL, deployed with Podman + Nginx + CI/CD, custom Cloudflare subdomain routing.
 - **EduSmart-MCP** — RAG-based educational assistant using LangChain, FAISS, Streamlit, Groq API, and a custom **FastMCP** server architecture.
-- **Graylog SIEM** — SIEM deployment on Ubuntu 22.04 with OpenSearch & MongoDB, built during my internship at Topcode Softwares.
+- **Graylog SIEM** — SIEM deployment on Ubuntu 22.04 with OpenSearch & MongoDB, built at Topcode Softwares.
 - **GestionSalleSport** — Java/JDBC/MySQL gym management system, MVC/DAO architecture.
 - **SOTETEL Project** — ESP32/LoRa environmental monitoring for fiber optic chambers with a real-time web dashboard.
 
 ---
-
-### 📫 Reach Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ranim-ferjaoui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/ranyym">ranyym</a></i></p>
