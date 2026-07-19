@@ -179,7 +179,6 @@ IoT environmental monitoring for fiber optic chambers.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=tokyonight&hide_border=true" />
 
-![Followers](https://img.shields.io/github/followers/ranyym?style=for-the-badge&logo=github&color=a855f7&labelColor=1a1b27)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=tokyo-night&hide_border=true" width="100%"/>
 
