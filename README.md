@@ -1,78 +1,87 @@
-<table>
-<tr>
-<td width="60%" valign="middle">
+<div align="center">
 
-## 👋 Hi, I'm Ranim!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Hi%20there,%20I'm%20Ranim%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Securing%20networks%20by%20day%20%E2%80%A2%20Shipping%20full-stack%20apps%20by%20night&descAlignY=55&descSize=18" width="100%"/>
 
-Securing networks by day, shipping full-stack apps by night.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+TEK-UP+%F0%9F%8E%93;Securing+Networks+%26+Systems+%F0%9F%94%90;Building+AI%2FRAG+Systems+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;PCAP+Certified+%F0%9F%93%9C" alt="Typing SVG" />
 
-- 🌍 Based in **Tunisia**
-- 🎓 Engineering student — **Information Systems Security & Networks (SSR)** @ TEK-UP
-- 🌱 Background in **IoT & Embedded Systems** (ISSAT Mateur)
-- 🔐 Currently deepening my skills in **Cybersecurity**
-- 💻 Full-stack dev, AI/RAG systems & DevOps
-- 📜 **PCAP (Python)** certified
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ranim-ferjeoui/)** or **[email](mailto:ranimferjeoui16@gmail.com)**
+<br/>
 
-</td>
-<td width="40%">
+[![LinkedIn](https://img.shields.io/badge/-Ranim%20Ferjaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranim-ferjeoui/)
+[![Gmail](https://img.shields.io/badge/-ranimferjeoui16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranimferjeoui16@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ranyym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranyym)
 
-<img src="https://raw.githubusercontent.com/cuuupid/undraw-illustrations/master/svg/developer_activity_bv83.svg" width="100%">
+</div>
 
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+## 🧭 About Me
 
-### 🛠️ Tech Stack
+```yaml
+name: Ranim Ferjaoui
+role: Engineering Student — Information Systems Security & Networks (SSR)
+school: TEK-UP
+background: IoT & Embedded Systems (ISSAT Mateur)
+location: Tunisia 🇹🇳
+currently_learning: Cybersecurity 🔐
+certifications: [PCAP - Python]
+focus: [Full-Stack Dev, AI/RAG Systems, DevOps]
+fun_fact: "Debugging deployments at 2AM is basically a hobby now 🐞"
+```
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,react,nextjs,php,docker,postgres,nginx,githubactions,git&theme=light" />
+
+<br/><br/>
 
 **AI / Data**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-4285F4?style=flat-square)
+&nbsp; ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-6366F1?style=for-the-badge&logoColor=white)
 
-**DevOps / Infra**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=default&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=default&hide_border=true" />
-</p>
+| | |
+|---|---|
+| ☕ **[Café Ayo](https://github.com/ranyym)** | Full-stack restaurant platform — Next.js, React, TS, PostgreSQL. Deployed with Podman + Nginx + CI/CD and a custom Cloudflare subdomain setup. |
+| 🧠 **EduSmart-MCP** | RAG-based educational assistant — LangChain, FAISS, Streamlit, Groq API, with a custom **FastMCP** server architecture. |
+| 🛡️ **Graylog SIEM** | SIEM deployment on Ubuntu 22.04 with OpenSearch & MongoDB, built at Topcode Softwares. |
+| 🏋️ **GestionSalleSport** | Java/JDBC/MySQL gym management system — MVC/DAO architecture. |
+| 📡 **SOTETEL Project** | ESP32/LoRa environmental monitoring for fiber optic chambers, with a real-time web dashboard. |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=react-dark&hide_border=true" width="100%"/>
-</p>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🔥 Featured Projects
+## 📊 GitHub Stats
 
-- **[Café Ayo](https://github.com/ranyym)** — Full-stack restaurant platform: Next.js, React, TypeScript, PostgreSQL, deployed with Podman + Nginx + CI/CD, custom Cloudflare subdomain routing.
-- **EduSmart-MCP** — RAG-based educational assistant using LangChain, FAISS, Streamlit, Groq API, and a custom **FastMCP** server architecture.
-- **Graylog SIEM** — SIEM deployment on Ubuntu 22.04 with OpenSearch & MongoDB, built at Topcode Softwares.
-- **GestionSalleSport** — Java/JDBC/MySQL gym management system, MVC/DAO architecture.
-- **SOTETEL Project** — ESP32/LoRa environmental monitoring for fiber optic chambers with a real-time web dashboard.
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center"><i>⭐️ From <a href="https://github.com/ranyym">ranyym</a></i></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-trophies.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranyym&style=for-the-badge&color=6366f1&label=Profile+Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
