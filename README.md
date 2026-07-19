@@ -1,120 +1,200 @@
-<h1 align="center">Hi 👋, I'm Ranim Ferjeoui</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student | Full-Stack Developer | AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:22d3ee&height=220&section=header&text=Hi%20there,%20I'm%20Ranim%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Securing%20networks%20by%20day%20%E2%80%A2%20Shipping%20full-stack%20apps%20by%20night&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=4F8CC9&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Engineering+Student+%40+TEK-UP+%F0%9F%8E%93;Securing+Networks+%26+Systems+%F0%9F%94%90;Building+AI%2FRAG+Systems+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;PCAP+Certified+%F0%9F%93%9C;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/ranyym">
-    <img src="https://img.shields.io/github/followers/ranyym?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/ranyym?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/ranim-ferjeoui/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/-Ranim%20Ferjaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranim-ferjeoui/)
+[![Gmail](https://img.shields.io/badge/-ranimferjeoui16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranimferjeoui16@gmail.com)
+[![GitHub](https://img.shields.io/badge/-ranyym-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranyym)
 
-# 👩‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=ranyym&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" />
 
-🎓 Software Engineering Student from Tunisia
+</div>
 
-💻 Passionate about building modern web applications and solving real-world problems.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-🌱 Currently exploring Artificial Intelligence, Cloud Computing, and Software Architecture.
+## 💻 whoami
 
-🚀 Interested in Full-Stack Development, IoT, and Machine Learning.
+```bash
+ranim@tek-up:~$ whoami
+> Ranim Ferjaoui — Engineering Student, SSR @ TEK-UP 🇹🇳
 
-🤝 Open to internships, collaborations, and exciting projects.
+ranim@tek-up:~$ cat mission.txt
+> Break things securely, build things reliably.
 
----
+ranim@tek-up:~$ ./skills.sh --list
+> [Full-Stack Dev] [AI/RAG Systems] [DevOps] [Cybersecurity (learning)]
+```
 
-# 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td>
 
-### Languages
+**🔭 Currently working on**
+Automated security pipelines with GitHub Actions & AI agents
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,html,css" />
-</p>
+</td>
+<td>
 
-### Frameworks & Libraries
+**🌱 Currently learning**
+Cybersecurity — Networks & Systems Security
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,bootstrap" />
-</p>
+</td>
+</tr>
+<tr>
+<td>
 
-### Databases
+**🤝 Open to**
+Internships & junior roles in dev / security
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+</td>
+<td>
 
-### Tools
+**⚡ Fun fact**
+Debugging deployments at 2AM is basically a hobby now 🐛
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-# 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ranyym&theme=tokyonight&hide_border=true"/>
-</p>
+**🔐 Security**
+<br/>
+![Cybersecurity](https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=cyberdefenders&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Graylog-1B2A4A?style=for-the-badge&logo=graylog&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 
----
+**💬 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c" />
 
-# 🏆 GitHub Trophies
+**🎨 Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+**⚙️ Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql,postgres,mongodb" />
 
----
+**🤖 AI / Data**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-6366F1?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
 
-# 🌟 Featured Projects
+**☁️ DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,git,linux" />
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-🔹 Environmental Monitoring System
+**🛠️ Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github" />
 
-🔹 Fiber Optic Monitoring Application
+</div>
 
-🔹 Full-Stack Web Applications
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-🔹 AI & Machine Learning Projects
+## 🚀 Featured Projects
 
----
+<div align="center">
 
-# 📫 Connect With Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📧 **Email**
+### ☕ Café Ayo
+Full-stack restaurant platform, deployed end-to-end.
 
-**ranimferjeoui16@gmail.com**
+`Next.js` `React` `TypeScript` `PostgreSQL` `Podman` `Nginx` `CI/CD`
 
-💼 **LinkedIn**
+Custom Cloudflare subdomain routing to solve dynamic VPS IP issues.
 
-https://www.linkedin.com/in/ranim-ferjeoui/
+</td>
+<td width="50%" valign="top">
 
-🐙 **GitHub**
+### 🧠 EduSmart-MCP
+RAG-based educational assistant with a custom MCP server architecture.
 
-https://github.com/ranyym
+`LangChain` `FAISS` `Streamlit` `Groq API` `FastMCP`
 
----
+Built to demonstrate MCP vs. standard RAG for a university jury.
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> *"Code. Learn. Build. Repeat."* 🚀
+### 🛡️ Graylog SIEM
+SIEM deployment with real-time log monitoring.
 
-</p>
+`Ubuntu 22.04` `OpenSearch` `MongoDB`
+
+Built at Topcode Softwares as an internal security tooling project.
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 SOTETEL — Final Year Project
+IoT environmental monitoring for fiber optic chambers.
+
+`ESP32` `LoRa` `Real-time Dashboard`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ranyym&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyym&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranyym&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-trophies.vercel.app/?username=ranyym&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranyym&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/ranyym/ranyym/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚡ Powered by the <code>snk</code> GitHub Action — see <code>snake.yml</code> below to activate it</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
