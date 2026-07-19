@@ -190,7 +190,7 @@ IoT environmental monitoring for fiber optic chambers.
 
 <div align="center">
 
-<img src="https://github.com/ranyym/ranyym/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github.com/ranyym/ranyym/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <sub>⚡ Powered by the <code>snk</code> GitHub Action — see <code>snake.yml</code> below to activate it</sub>
 
